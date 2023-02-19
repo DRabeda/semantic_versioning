@@ -5,12 +5,11 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/python:0-3.10",
 
-	"settings": [
+	"settings": {
 		"workbench.colorTheme": "Visual Studio Dark",
-		"editor.rulers": [
-			100
-		]
-	]
+		"editor.rulers": [100]
+	
+}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
